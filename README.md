@@ -1,5 +1,5 @@
-# strato-certbot
-Wildcard certificates for strato.de
+# strato-certbot-se
+Wildcard certificates for strato.se
 
 ## Install Cerbot in Linux
 
