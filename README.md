@@ -4,6 +4,7 @@ Wildcard certificates for strato.de
 ## Install Cerbot in Linux
 
 Run `sudo apt update`
+
 Run `sudo apt install certbot python3-certbot-nginx`
 
 ## Install python dependence
