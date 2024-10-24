@@ -1,12 +1,12 @@
 # strato-certbot
 Wildcard certificates for strato.de
 
-##Install Cerbot in Linux
+## Install Cerbot in Linux
 
 Run `sudo apt update`
 Run `sudo apt install certbot python3-certbot-nginx`
 
-##Install python dependence
+## Install python dependence
 
 Run `pip install -r requirements.txt` 
 
