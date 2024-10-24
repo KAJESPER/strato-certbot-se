@@ -1,0 +1,8 @@
+{
+    "api_url": "https://www.strato.se/apps/CustomerService",
+    "username": "",
+    "password": "",
+    "totp_secret": "",
+    "totp_devicename": "",
+    "waiting_time": 10
+}
